@@ -24,9 +24,9 @@ export default defineConfig({
       polyfills: ['es.promise.finally', 'es/map', 'es/set'],
       modernPolyfills: ['es.promise.finally']
 		})
-	]
+	],
 	// build: {
 	// 	manifest: true,
 	// }
-	// base: '/VITE-FINAL/',
+	base: '/VITE-FINAL/',
 });

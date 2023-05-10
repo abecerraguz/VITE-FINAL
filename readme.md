@@ -1,9 +1,8 @@
 # INICIAR CON VITE
 
-`
-    npm create vite@latest
-
-`
+```git
+   npm create vite@latest
+```
 
 ## Configurar Vite ( vite.config.js )
 
@@ -16,7 +15,7 @@ Debe considerar que para el uso del plugins debe instalar la dependencia `@vitej
 ```
 ### Mayor información
 
-[REFERENCIA](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy)
+[ REFERENCIA https://github.com/vitejs/vite/tree/main/packages/plugin-legacy ](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy)
 
 ```javascript
 
@@ -49,7 +48,7 @@ Debe crear en la raiz del proyecto la carpeta `.github` y la sub carpeta `workfl
             |– master.yml       
 ~~~
 
-[REFERENCIA](https://vitejs.dev/guide/static-deploy.html)
+[ REFERENCIA https://vitejs.dev/guide/static-deploy.html ](https://vitejs.dev/guide/static-deploy.html)
 
 ```yml
 

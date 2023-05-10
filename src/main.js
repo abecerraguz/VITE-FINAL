@@ -40,7 +40,7 @@ for (let i of [1, 2, 3, 4, 5]) {
 async function asincronica() {
 
   let promise = new Promise((resolve, reject) => {
-    setTimeout(() => resolve("done!"), 1000)
+    setTimeout(() => resolve("doneeeeeeeeee!"), 1000)
   });
 
   let result = await promise; // wait until the promise resolves (*)

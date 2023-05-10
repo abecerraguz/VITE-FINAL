@@ -14,4 +14,4 @@ function d(){import.meta.url,import("_").catch(()=>1);async function*o(){}}(func
       Click on the Vite logo to learn more
     </p>
   </div>
-`;a(document.querySelector("#counter"));for(let o=0;o<3;o++){console.log(o);let t="";for(let s=0;s<3;s++)t=s,console.log(t)}for(let o of[1,2,3,4,5])console.log(o);async function u(){let t=await new Promise((s,i)=>{setTimeout(()=>s("doneeeeeeeeee!"),1e3)});alert(t)}u();export{d as __vite_legacy_guard};
+`;a(document.querySelector("#counter"));for(let o=0;o<3;o++){console.log(o);let t="";for(let s=0;s<3;s++)t=s,console.log(t)}for(let o of[1,2,3,4,5])console.log(o);async function u(){let t=await new Promise((s,i)=>{setTimeout(()=>s("doneXXXXXXXXXXXXX!"),1e3)});alert(t)}u();export{d as __vite_legacy_guard};

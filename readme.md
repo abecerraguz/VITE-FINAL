@@ -48,6 +48,8 @@ Debe crear en la raiz del proyecto la carpeta `.github` y la sub carpeta `workfl
             |– master.yml       
 ~~~
 
+### Mayor información
+
 [ REFERENCIA https://vitejs.dev/guide/static-deploy.html ](https://vitejs.dev/guide/static-deploy.html)
 
 ```yml

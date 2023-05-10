@@ -2,10 +2,10 @@ import legacy from '@vitejs/plugin-legacy'
 
 export default {
   // root: './src',
-  build: {
-    manifest: true,
-  },
-  base: '/VITE-FINAL/',
+  // build: {
+  //   manifest: true,
+  // },
+  // base: '/VITE-FINAL/',
   plugins: [
     legacy({
       polyfills: ['es.promise.finally', 'es/map', 'es/set'],

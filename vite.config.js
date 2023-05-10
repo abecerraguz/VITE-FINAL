@@ -1,7 +1,7 @@
 import legacy from '@vitejs/plugin-legacy'
 
 export default {
-  root: './src',
+  // root: './src',
   build: {
     manifest: true,
   },

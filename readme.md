@@ -32,8 +32,11 @@ Debe considerar que para el uso del plugins debe instalar la dependencia `@vitej
             modernPolyfills: ['es.promise.finally']
             })
         ],
+        build: {
+		manifest: true,
+	    },
         // Se agrega la base carpeta donde se encuentra el proyecto
-        base: '/VITE-FINAL/',
+        base: '/nombre-del-proyecto-github/',
     });
 
 ```
@@ -63,7 +66,7 @@ Debe crear en la raiz del proyecto la carpeta `.github` y la sub carpeta `workfl
         branches: ['master']
 
     # Allows you to run this workflow manually from the Actions tab
-    workflow_dispatch:
+    # workflow_dispatch:
 
     # Sets the GITHUB_TOKEN permissions to allow deployment to GitHub Pages
     permissions:

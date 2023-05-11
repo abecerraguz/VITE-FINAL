@@ -1,5 +1,7 @@
 # INICIAR CON VITE
 
+[ BAJAR VIDEO TUTORIAL ](https://drive.google.com/file/d/1josdj7yrJVu3c5eR0SLWAPdlveBm0ndO/view?usp=sharing)
+
 ```git
    npm create vite@latest
 ```

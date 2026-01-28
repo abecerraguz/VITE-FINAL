@@ -21,8 +21,8 @@ import { defineConfig } from 'vite';
 export default defineConfig({
 	plugins: [
 		legacy({
-      polyfills: ['es.promise.finally', 'es/map', 'es/set'],
-      modernPolyfills: ['es.promise.finally']
+			polyfills: ['es.promise.finally', 'es/map', 'es/set'],
+			modernPolyfills: ['es.promise.finally']
 		})
 	],
 	build: {
